@@ -1,4 +1,4 @@
 # hello-world
 1st steps in GitHub
 
-THis are my 1st stepswith GitHub. I'm following the "Hello Word example" provided by GitHub.
+This are my 1st steps with GitHub. I'm following the "Hello Word example" provided by GitHub.
